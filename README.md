@@ -29,12 +29,12 @@ I found this raw dataset in kaggle :https://www.kaggle.com/datasets/himanshupodd
 
 # Data Preparation and Cleaning:
 
-Load the CSV files as Pandas dataframes.
-Drop unnecessary columns that are not used for further analysis.
-Handled the missing values.
-Remove duplicated columns.
-Perform data transformation on certain columns where values are not in the correct format for analysis. Convert data types accordingly.
-Rename some columns for consistent use of names in the data analysis process.
+- Load the CSV files as Pandas dataframes.
+- Drop unnecessary columns that are not used for further analysis.
+- Handled the missing values.
+- Remove duplicated columns.
+- Perform data transformation on certain columns where values are not in the correct format for analysis. Convert data types accordingly.
+- Rename some columns for consistent use of names in the data analysis process.
 
 # Data Visualization:
 
@@ -42,31 +42,31 @@ In this data visualization analysis, we explore insights related to restaurant r
 
 # Answering Questions:
 
-Which Location has More Positive rated Restaurants in Bangalore?
-What is Top restaurant Chain in Bangalore?
-Which Type of Food liked by most people in Bangalore?
-Which location has highest number of restraurants in Bangalore?
-Which location has most expensive and most affortable cost in Bangalore?
+- Which Location has More Positive rated Restaurants in Bangalore?
+- What is Top restaurant Chain in Bangalore?
+- Which Type of Food liked by most people in Bangalore?
+- Which location has highest number of restraurants in Bangalore?
+- Which location has most expensive and most affortable cost in Bangalore?
 
 
 
 # Inferences and Conclusion
 Based on the provided information, the conclusions and inferences that can be drawn are as follows:
 
-Popular Cuisines: The most popular cuisines in Bangalore are North Indian, followed by Chinese and South Indian.
+1. Popular Cuisines: The most popular cuisines in Bangalore are North Indian, followed by Chinese and South Indian.
 
-Restaurant Concentration: Koramangala 5th Block has the highest number of restaurants, making it a vibrant culinary hub in the area, offering diverse dining options.
+2. Restaurant Concentration: Koramangala 5th Block has the highest number of restaurants, making it a vibrant culinary hub in the area, offering diverse dining options.
 
-Ratings Frequency: Restaurants in Bangalore tend to receive ratings mostly within the 3.5 to 4.5 range, indicating a generally positive dining experience.
+3. Ratings Frequency: Restaurants in Bangalore tend to receive ratings mostly within the 3.5 to 4.5 range, indicating a generally positive dining experience.
 
-Dining Trends: Bangaloreans have a preference for pasta, pizza, and cocktails as their favorite food choices.
+4. Dining Trends: Bangaloreans have a preference for pasta, pizza, and cocktails as their favorite food choices.
 
-Online Ordering: Bangalore restaurants are more focused on catering to online orders rather than offering extensive booking facilities for dining in.
+5. Online Ordering: Bangalore restaurants are more focused on catering to online orders rather than offering extensive booking facilities for dining in.
 
-Highly Rated Restaurants: Koramangala 7th Block stands out as an area with the largest number of highly rated restaurants in Bangalore, indicating a concentration of quality dining establishments.
+6. Highly Rated Restaurants: Koramangala 7th Block stands out as an area with the largest number of highly rated restaurants in Bangalore, indicating a concentration of quality dining establishments.
 
-Famous Restaurant Chains: Onesta, Empire Restaurant, and KFC are among the most well-known restaurant chains in Bangalore.
+7. Famous Restaurant Chains: Onesta, Empire Restaurant, and KFC are among the most well-known restaurant chains in Bangalore.
 
-Upscale Dining: Sankey Road is the prominent choice for those seeking upscale and expensive dining experiences in Bangalore.
+8. Upscale Dining: Sankey Road is the prominent choice for those seeking upscale and expensive dining experiences in Bangalore.
 
-Affordable Dining: KR Puram offers a relatively lower average price range or cost of dining compared to other locations in Bangalore.
+9. Affordable Dining: KR Puram offers a relatively lower average price range or cost of dining compared to other locations in Bangalore.
