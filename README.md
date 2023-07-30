@@ -22,3 +22,26 @@ mostly vegetarian. These kind of analysis can be done using the data, by studyin
 
 The data is accurate to that available on the zomato website until 15 March 2019.
 The data was scraped from Zomato in two phase. After going through the structure of the website I found that for each neighborhood there are 6-7 category of restaurants viz. Buffet, Cafes, Delivery, Desserts, Dine-out, Drinks & nightlife, Pubs and bars.
+
+
+
+Inferences and Conclusion
+Based on the provided information, the conclusions and inferences that can be drawn are as follows:
+
+Popular Cuisines: The most popular cuisines in Bangalore are North Indian, followed by Chinese and South Indian.
+
+Restaurant Concentration: Koramangala 5th Block has the highest number of restaurants, making it a vibrant culinary hub in the area, offering diverse dining options.
+
+Ratings Frequency: Restaurants in Bangalore tend to receive ratings mostly within the 3.5 to 4.5 range, indicating a generally positive dining experience.
+
+Dining Trends: Bangaloreans have a preference for pasta, pizza, and cocktails as their favorite food choices.
+
+Online Ordering: Bangalore restaurants are more focused on catering to online orders rather than offering extensive booking facilities for dining in.
+
+Highly Rated Restaurants: Koramangala 7th Block stands out as an area with the largest number of highly rated restaurants in Bangalore, indicating a concentration of quality dining establishments.
+
+Famous Restaurant Chains: Onesta, Empire Restaurant, and KFC are among the most well-known restaurant chains in Bangalore.
+
+Upscale Dining: Sankey Road is the prominent choice for those seeking upscale and expensive dining experiences in Bangalore.
+
+Affordable Dining: KR Puram offers a relatively lower average price range or cost of dining compared to other locations in Bangalore.
